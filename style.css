@@ -156,13 +156,13 @@ li {
   }
 
   article{
-      border: 1px white solid;
-      border-radius: 16px;
-      height: 200px;
-  }
+    border: 1px white solid;
+    border-radius: 16px;
+    height: 200px;
+    }
   
   aside{
     border: 1px white solid;
     border-radius: 16px;
     height: 100px;
-}
+    }
